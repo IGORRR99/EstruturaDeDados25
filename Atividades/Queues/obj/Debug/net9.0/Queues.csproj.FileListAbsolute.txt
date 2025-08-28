@@ -1,0 +1,14 @@
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\bin\Debug\net9.0\Queues.exe
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\bin\Debug\net9.0\Queues.deps.json
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\bin\Debug\net9.0\Queues.runtimeconfig.json
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\bin\Debug\net9.0\Queues.dll
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\bin\Debug\net9.0\Queues.pdb
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.AssemblyInfoInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.AssemblyInfo.cs
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.csproj.CoreCompileInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.dll
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\refint\Queues.dll
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.pdb
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\Queues.genruntimeconfig.cache
+C:\Users\453332\Documents\EstruturaDeDados25-main\Atividades\Queues\obj\Debug\net9.0\ref\Queues.dll
