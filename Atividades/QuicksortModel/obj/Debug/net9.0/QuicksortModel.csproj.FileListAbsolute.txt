@@ -1,0 +1,15 @@
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.AssemblyInfoInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.AssemblyInfo.cs
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.csproj.CoreCompileInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.sourcelink.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\bin\Debug\net9.0\QuicksortModel.exe
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\bin\Debug\net9.0\QuicksortModel.deps.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\bin\Debug\net9.0\QuicksortModel.runtimeconfig.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\bin\Debug\net9.0\QuicksortModel.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\bin\Debug\net9.0\QuicksortModel.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\refint\QuicksortModel.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\QuicksortModel.genruntimeconfig.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\QuicksortModel\obj\Debug\net9.0\ref\QuicksortModel.dll
