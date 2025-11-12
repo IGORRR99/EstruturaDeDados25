@@ -1,0 +1,15 @@
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.AssemblyInfoInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.AssemblyInfo.cs
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.csproj.CoreCompileInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.sourcelink.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\bin\Debug\net9.0\Algoritmo de Busca.exe
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\bin\Debug\net9.0\Algoritmo de Busca.deps.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\bin\Debug\net9.0\Algoritmo de Busca.runtimeconfig.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\bin\Debug\net9.0\Algoritmo de Busca.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\bin\Debug\net9.0\Algoritmo de Busca.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\refint\Algoritmo de Busca.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\Algoritmo de Busca.genruntimeconfig.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Algoritmo de Busca\obj\Debug\net9.0\ref\Algoritmo de Busca.dll
