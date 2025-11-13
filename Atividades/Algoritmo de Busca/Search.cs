@@ -6,7 +6,6 @@ namespace Algoritmo_de_Busca
     {
         static void Main()
         {
-            // Corrigido: o vetor deve ser de string, já que faremos comparação com entrada do usuário
             string[] vetor = { "9", "99", "999", "9999", "99999", "999999", "9999999", "99999999", "999999999", "9999999999" };
 
             Console.Write("Digite o número que deseja buscar: ");
@@ -23,7 +22,7 @@ namespace Algoritmo_de_Busca
                     break;
                 }
             }
-
+            
             if (!encontrado)
             {
                 Console.WriteLine("Valor não encontrado no vetor.");
