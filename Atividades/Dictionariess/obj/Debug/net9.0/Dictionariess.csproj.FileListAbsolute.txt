@@ -1,0 +1,15 @@
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\bin\Debug\net9.0\Dictionariess.exe
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\bin\Debug\net9.0\Dictionariess.deps.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\bin\Debug\net9.0\Dictionariess.runtimeconfig.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\bin\Debug\net9.0\Dictionariess.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\bin\Debug\net9.0\Dictionariess.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.AssemblyInfoInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.AssemblyInfo.cs
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.csproj.CoreCompileInputs.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.sourcelink.json
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\refint\Dictionariess.dll
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.pdb
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\Dictionariess.genruntimeconfig.cache
+C:\Users\453332\Documents\EstruturaDeDados25\Atividades\Dictionariess\obj\Debug\net9.0\ref\Dictionariess.dll
