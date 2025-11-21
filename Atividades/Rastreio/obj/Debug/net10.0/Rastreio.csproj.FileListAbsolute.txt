@@ -1,0 +1,14 @@
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\bin\Debug\net10.0\Rastreio.exe
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\bin\Debug\net10.0\Rastreio.deps.json
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\bin\Debug\net10.0\Rastreio.runtimeconfig.json
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\bin\Debug\net10.0\Rastreio.dll
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\bin\Debug\net10.0\Rastreio.pdb
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.AssemblyInfoInputs.cache
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.AssemblyInfo.cs
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.csproj.CoreCompileInputs.cache
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.dll
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\refint\Rastreio.dll
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.pdb
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\Rastreio.genruntimeconfig.cache
+C:\Users\gurhn\OneDrive\Documentos\Rastreio\obj\Debug\net10.0\ref\Rastreio.dll
